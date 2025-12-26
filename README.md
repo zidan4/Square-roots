@@ -1,6 +1,6 @@
 # Square-roots
 
-freeCodeCamp Practice Project 
+freeCodeCamp Practice Project
 
 Scientific Computing with Python
 
