@@ -2,7 +2,7 @@
 
 freeCodeCamp Practice Project
 
-Scientific Computing with Python 
+Scientific Computing with Python
 
 Numerical methods are used to approximate solutions to mathematical problems that are difficult or impossible to solve analytically.
 
